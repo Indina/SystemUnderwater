@@ -1,0 +1,208 @@
+﻿@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?pnjjrq');
+	src:url('fonts/icomoon.eot?#iefixpnjjrq') format('embedded-opentype'),
+		url('fonts/icomoon.woff?pnjjrq') format('woff'),
+		url('fonts/icomoon.ttf?pnjjrq') format('truetype'),
+		url('fonts/icomoon.svg?pnjjrq#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.navigation a:hover {
+
+    text-decoration: none;
+}
+
+
+
+.icon-product3:before {
+	content: "\e600";
+}
+
+.icon-product-o:before {
+	content: "\e606";
+}
+
+.icon-product:before {
+	content: "\e601";
+}
+
+.icon-fa-order:before {
+	content: "\e602";
+}
+
+.icon-order-o:before {
+	content: "\e603";
+}
+
+.icon-shoppingchart-o:before {
+	content: "\e604";
+}
+
+.icon-intervju:before {
+	content: "\e605";
+}
+
+.icon-audit:before {
+	content: "\e60d";
+}
+
+.icon-candidatsearch:before {
+	content: "\e607";
+}
+
+.icon-candidates:before {
+	content: "\e608";
+}
+
+.icon-communications:before {
+	content: "\e609";
+}
+
+.icon-fa-contacts:before {
+	content: "\e60a";
+}
+
+.icon-fa-employer:before {
+	content: "\e60b";
+}
+
+.icon-employer2:before {
+	content: "\e60c";
+}
+
+.icon-fa-feedback:before {
+	content: "\e60e";
+}
+
+.icon-history:before {
+	content: "\e60f";
+}
+
+.icon-inbox:before {
+	content: "\e614";
+}
+
+.icon-incident:before {
+	content: "\e610";
+}
+
+.icon-intervju-o:before {
+	content: "\e611";
+}
+
+.icon-jobads:before {
+	content: "\e612";
+}
+
+.icon-order:before {
+	content: "\e613";
+}
+
+.icon-fa-overview:before {
+	content: "\e615";
+}
+
+.icon-fa-box:before {
+	content: "\e616";
+}
+
+.icon-fa-profile:before {
+	content: "\e61b";
+}
+
+.icon-fa-roles:before {
+	content: "\e617";
+}
+
+.icon-roles_tykk:before {
+	content: "\e618";
+}
+
+.icon-fa-basket:before {
+	content: "\e619";
+}
+
+.icon-feedback:before {
+	content: "\e61a";
+}
+
+.icon-contacts2:before {
+	content: "\e622";
+}
+
+.icon-employer22:before {
+	content: "\e61c";
+}
+
+.icon-audit2:before {
+	content: "\e61d";
+}
+
+.icon-candidates2:before {
+	content: "\e61e";
+}
+
+.icon-communications2:before {
+	content: "\e61f";
+}
+
+.icon-hiistory2:before {
+	content: "\e620";
+}
+
+.icon-inbox2:before {
+	content: "\e621";
+}
+
+.icon-incident2:before {
+	content: "\e629";
+}
+
+.icon-jobads2:before {
+	content: "\e623";
+}
+
+.icon-order2:before {
+	content: "\e624";
+}
+
+.icon-overview2:before {
+	content: "\e625";
+}
+
+.icon-product32:before {
+	content: "\e626";
+}
+
+.icon-profile2:before {
+	content: "\e627";
+}
+
+.icon-roles_tykk2:before {
+	content: "\e628";
+}
+
+.icon-shoppingchart3:before {
+	content: "\e62b";
+}
+
+.icon-search:before {
+	content: "\e62a";
+}
+
