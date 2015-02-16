@@ -80,6 +80,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\views\company.html" />
+    <Content Include="app\views\profile-edit.html" />
+    <Content Include="profile.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -89,12 +92,15 @@
     <Content Include="dash.css">
       <DependentUpon>dash.less</DependentUpon>
     </Content>
+    <Content Include="app\views\division.html" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="icons\demo-files\demo.css" />
     <Content Include="icons\demo-files\demo.js" />
     <Content Include="icons\font-worklink.css" />
     <Content Include="icons\fonts\icomoon.svg" />
+    <Content Include="Image\chart.png" />
+    <Content Include="Image\logo.png" />
     <Content Include="Image\profileimage.jpg" />
     <Content Include="Image\image-4.jpg" />
     <Content Include="Image\logoworkforsideindis.png" />
@@ -107,6 +113,8 @@
     <Content Include="Image\manmedskikkert3.png" />
     <Content Include="Image\mannloper.jpg" />
     <Content Include="Image\manside.png" />
+    <Content Include="Image\statoil.jpg" />
+    <Content Include="Image\telenor_400_400_black.jpg" />
     <Content Include="Image\tomenn.png" />
     <Content Include="index.html" />
     <Content Include="landing-css.css">
@@ -130,8 +138,12 @@
     <Content Include="landing-css.css.map">
       <DependentUpon>landing-css.css</DependentUpon>
     </Content>
+    <Content Include="Scripts\angular-mocks.js" />
+    <Content Include="Scripts\angular.js" />
+    <Content Include="Scripts\angular.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\angular.min.js.map" />
     <None Include="Scripts\jquery-2.1.3.intellisense.js">
       <DependentUpon>jquery-2.1.3.js</DependentUpon>
     </None>
@@ -144,6 +156,7 @@
       <DependentUpon>mtree.less</DependentUpon>
     </Content>
     <Content Include="Scripts\mtree.js" />
+    <Content Include="app\views\vacancy.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
