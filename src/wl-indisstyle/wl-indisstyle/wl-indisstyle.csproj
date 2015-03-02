@@ -80,12 +80,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\views\candidatesearch.html" />
     <Content Include="app\views\company.html" />
     <Content Include="app\views\jobsearch.html" />
     <Content Include="app\views\modals.html" />
+    <Content Include="app\views\Myapplications.html" />
+    <Content Include="app\views\Myjobads-edit.html" />
     <Content Include="app\views\myjobads.html" />
+    <Content Include="app\views\Overview.html" />
     <Content Include="app\views\profile-edit.html" />
+    <Content Include="Image\banner-company.png" />
     <Content Include="Image\logo-wl.png" />
+    <Content Include="Image\Statoil Horizontal 25_darkbackground.png" />
     <Content Include="Image\WorkLink_Landing1 %282%29.jpg" />
     <Content Include="profile.html" />
     <Content Include="Content\bootstrap-theme.css" />

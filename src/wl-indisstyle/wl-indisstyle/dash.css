@@ -892,6 +892,7 @@ ul.mtree.transit {
 }
 ul.mtree.bubba > li {
   border-bottom: 1px solid #B9B9B9;
+  padding: 10px !important;
 }
 a {
   color: #363636;
@@ -973,5 +974,53 @@ td {
 }
 .company-info li {
   margin-bottom: 30px;
+}
+body {
+  background-color: #ddd;
+}
+h3 {
+  margin-top: 0;
+}
+.tabs-left {
+  margin-top: 3rem;
+}
+.nav-tabs {
+  float: Right;
+  border-bottom: 0;
+  border-radius: 0px;
+}
+.nav-tabs li {
+  float: none;
+  margin: 0;
+}
+.nav-tabs li a {
+  margin-right: 0;
+  border: 0;
+}
+.nav-tabs .glyphicon {
+  color: #fff;
+}
+.nav-tabs .active .glyphicon {
+  color: #333;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+  border: 0;
+}
+.tab-content2 .tab-pane {
+  background-color: #fff;
+  padding: 1.6rem;
+  overflow-y: auto;
+}
+.list-group {
+  width: 100%;
+}
+.list-group .list-group-item {
+  height: 50px;
+}
+.list-group .list-group-item h4,
+.list-group .list-group-item span {
+  line-height: 11px;
 }
 /*# sourceMappingURL=dash.css.map */
