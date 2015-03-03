@@ -80,8 +80,8 @@ body {
 }
 /* Sidebar Styles */
 .sidebar-nav {
-  position: absolute;
-  top: 0;
+  /*position: absolute;
+    top: 0;*/
   margin: 0;
   padding: 0;
   list-style: none;
@@ -327,7 +327,7 @@ li {
   margin-right: 20px;
 }
 .wl-menu {
-  color: #a8acb7;
+  color: #707070;
   font-size: 50px;
   line-height: 1.5;
 }
