@@ -94,7 +94,7 @@
     <Content Include="Image\logo-wl.png" />
     <Content Include="Image\Statoil Horizontal 25_darkbackground.png" />
     <Content Include="Image\WorkLink_Landing1 %282%29.jpg" />
-    <Content Include="profile.html" />
+    <Content Include="app\views\profile.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
