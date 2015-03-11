@@ -84,6 +84,7 @@
     <Content Include="app\views\company.html" />
     <Content Include="app\views\empleyerprofile.html" />
     <Content Include="app\views\jobsearch.html" />
+    <Content Include="app\views\modalinnhold.html" />
     <Content Include="app\views\modals.html" />
     <Content Include="app\views\Myapplications.html" />
     <Content Include="app\views\Myjobads-edit.html" />
